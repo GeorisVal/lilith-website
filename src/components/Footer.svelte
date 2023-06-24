@@ -34,6 +34,13 @@
       class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
       Support Server
     </a>
+		<a
+      href="//ko-fi.com/lilithdiscordbot"
+      target="_blank"
+      rel="noreferrer"
+      class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
+      Donate
+    </a>
 	</div>
 	<div class="w-54 p-5 text-center lg:text-right">
 		<p class="font-semibold text-white">Other</p>
@@ -50,6 +57,16 @@
 			rel="noreferrer"
 			class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
 			diablo4.th.gl
+		</a>
+	</div>
+	<div class="w-54 p-5 text-center lg:text-right">
+		<p class="font-semibold text-white">Sponsors</p>
+		<a
+			href="//discord.gg/EEXREU9H"
+			target="_blank"
+			rel="noreferrer"
+			class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
+			The Man Bear Pigs
 		</a>
 	</div>
 </footer>
