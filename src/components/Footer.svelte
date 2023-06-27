@@ -27,20 +27,27 @@
 			class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
 			Privacy Policy
 		</a>
-    <a
-      href="https://discord.gg/Ksuy5dWaEP"
-      target="_blank"
-      rel="noreferrer"
-      class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
-      Support Server
-    </a>
 		<a
-      href="//ko-fi.com/lilithdiscordbot"
-      target="_blank"
-      rel="noreferrer"
-      class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
-      Donate
-    </a>
+			href="https://discord.gg/Ksuy5dWaEP"
+			target="_blank"
+			rel="noreferrer"
+			class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
+			Support Server
+		</a>
+		<a
+			href="//ko-fi.com/lilithdiscordbot"
+			target="_blank"
+			rel="noreferrer"
+			class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
+			Donate
+		</a>
+		<a
+			href="https://canary.discord.com/api/oauth2/authorize?client_id=1119566542628192340&permissions=17876191071232&scope=applications.commands%20bot"
+			target="_blank"
+			rel="noreferrer"
+			class="my-3 block text-gray-400 transition duration-300 ease-in-out hover:text-gray-200">
+			Let Lilith in
+		</a>
 	</div>
 	<div class="w-54 p-5 text-center lg:text-right">
 		<p class="font-semibold text-white">Other</p>
